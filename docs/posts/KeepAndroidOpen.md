@@ -1,4 +1,4 @@
----
+-true
 title: Keep Android Open 🔓
 description: Android will become a locked-down platform in less than 200 days.
 date: 2026-02-26
